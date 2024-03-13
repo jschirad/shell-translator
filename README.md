@@ -1,10 +1,9 @@
 <h1 align="center">Shell Script Translator<br></h1>
-
-The original project [https://github.com/whoiskatrin/sql-translator.git](https://github.com/whoiskatrin/sql-translator)
-
 <div align="center">
     <img src="Screenshot 2024-03-11 at 21.53.58.png" width="600" />
 </div>
+
+The original project [https://github.com/whoiskatrin/sql-translator.git](https://github.com/whoiskatrin/sql-translator)
 This a copy focus in Shell scripting
 
 ## 🌟 Features
