@@ -1,5 +1,8 @@
-<h1 align="center">Shell Script Translator<br>(Shell to Natural Language and Natural Language to Shell)</h1>
+<h1 align="center">Shell Script Translator<br></h1>
 
+The original project https://github.com/whoiskatrin/Shell-translator.git
+
+This a copy focus in Shell scripting
 
 ## 🌟 Features
 
