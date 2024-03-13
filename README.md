@@ -1,6 +1,6 @@
 <h1 align="center">Shell Script Translator<br></h1>
 
-The original project https://github.com/whoiskatrin/Shell-translator.git
+The original project [https://github.com/whoiskatrin/Shell-translator.git](https://github.com/whoiskatrin/sql-translator)
 
 This a copy focus in Shell scripting
 
@@ -79,7 +79,7 @@ Enter a natural language query in the input box and click "Translate" to generat
 
 ## 👥 Contributing
 
-The original project https://github.com/whoiskatrin/Shell-translator.git
+The original project [https://github.com/whoiskatrin/Shell-translator.git](https://github.com/whoiskatrin/sql-translator)
 
 Contributions to Shell Translator are welcome and encouraged! To contribute, please follow these steps:
 
